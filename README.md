@@ -1,4 +1,4 @@
-LoopOps — Agentic Business Decision Loop System
+LoopOps Agentic Business Decision Loop System
 
 LoopOps is an agentic workflow system that turns business operations into a continuous feedback loop.
 
